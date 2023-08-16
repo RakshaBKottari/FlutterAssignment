@@ -1,4 +1,4 @@
-# quip_app_29
+# quip_app
 
 A new Flutter project.
 
